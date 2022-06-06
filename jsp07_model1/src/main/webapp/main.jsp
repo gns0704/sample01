@@ -7,6 +7,7 @@
 <title>main.jsp</title>
 </head>
 <body>
+hello
 <ul>
 	<li><a href="join.jsp">회원가입</a></li>
 	<li><a href="list.jsp">회원목록</a></li>
